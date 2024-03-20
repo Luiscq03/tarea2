@@ -1,0 +1,16 @@
+{
+    "contraseña":[
+        {
+            "Usuario":"callacaquispe@gmail.com",
+            "Password":"123456"
+        },
+        {
+            "Usuario":"velizchupa@gmail.com",
+            "Password":"987654"
+        },
+        {
+            "Usuario":"sanchezsanchez@hotmail.com",
+            "Password":"sthepanie_veliz"
+        }
+    ]
+}
